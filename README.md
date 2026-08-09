@@ -1,4 +1,4 @@
-# 🚦 Accident Severity Predictor & Risk Analytics System
+# Accident Severity Predictor & Risk Analytics System
 
 A machine-learning-based web application and analytics dashboard designed to predict road accident severity risk and provide interactive insights into high-risk hotspots, temporal trends, and key contributing features.
 
@@ -50,8 +50,6 @@ The application will launch automatically in your browser at `http://localhost:8
 Project_1_Accident_Severity_Predictor/
 ├── app/
 │   ├── app.py                      # Main Streamlit web application & analytics dashboard
-│   ├── app - Copy.py               # Application snapshot backup
-│   └── app_backup_day29.py         # Historical iteration backup
 ├── Dataset/
 │   ├── Road.csv                    # Original raw accident dataset (12,316 records × 32 columns)
 │   ├── encoded_road.csv            # Preprocessed & encoded dataset dump
