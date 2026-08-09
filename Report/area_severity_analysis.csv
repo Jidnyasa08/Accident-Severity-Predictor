@@ -1,0 +1,15 @@
+Area_accident_occured,Fatal injury,Serious Injury,Slight Injury
+  Market areas,3,7,53
+  Recreational areas,8,39,280
+ Church areas,10,141,909
+ Hospital areas,0,12,109
+ Industrial areas,6,60,390
+ Outside rural areas,1,40,177
+Office areas,39,475,2937
+Other,43,546,3230
+Recreational areas,0,1,0
+Residential areas,37,324,1699
+Rural village areas,1,2,41
+Rural village areasOffice areas,0,6,14
+School areas,5,54,356
+Unknown,2,2,18

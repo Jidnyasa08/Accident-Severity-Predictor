@@ -1,0 +1,6 @@
+Test No.,Input Changes,Predicted Severity,Status
+1,Default values,Fatal,Passed
+2,"Changed day, weather, and collision",Fatal,Passed
+3,"Changed vehicles, casualties, and movement",Fatal,Passed
+4,Changed driver and vehicle details,Fatal,Passed
+5,Multiple different inputs,Fatal,Passed
